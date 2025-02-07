@@ -80,4 +80,4 @@ navigate("/signup")
     )
 };
 
-export const useUserData = () => useContext(UserContext); // Renamed to follow naming conventions
+export const useUserData = () => useContext(UserContext); 
